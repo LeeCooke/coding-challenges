@@ -1,5 +1,5 @@
 # Extract & Compute Kata
-
+ 
 ## Background
 
 Here you will find two data files `consumption_data.json` and `consumption_data.csv`. Both contain and identical set of data. This is;
